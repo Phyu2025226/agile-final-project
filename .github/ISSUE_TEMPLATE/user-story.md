@@ -8,6 +8,6 @@ about: Create a user story
 **So that**  
 
 ### Acceptance Criteria
-Given
-When
-Then
+**Given**
+**When**
+**Then**
